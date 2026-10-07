@@ -86,3 +86,13 @@
 ## License
 
 Demo media for product showcase. Site © Maynor / xianyu110. Please only upload photos you own or have permission to use.
+
+
+---
+
+## Blog（自建内容外链）
+
+- [How to make an AI zombie hug video](blog/how-to-make-ai-zombie-hug-video.en.md) · [中文](blog/how-to-make-ai-zombie-hug-video.zh.md)
+- [Prompt guide / why two photos must differ](blog/zombie-love-story-prompt-guide.en.md) · [中文](blog/zombie-love-story-prompt-guide.zh.md)
+- Live on site: https://aizombie.app/blog
+- Machine-readable: https://aizombie.app/llms.txt
