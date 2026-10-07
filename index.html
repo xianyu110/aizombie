@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ZombieHug · AI Zombie Hug Video</title>
+  <meta name="description" content="两张照片生成 AI 僵尸拥抱短视频。游客 $9.90 出一条 720p。aizombie.app" />
+  <meta property="og:title" content="ZombieHug · aizombie.app" />
+  <meta property="og:description" content="两张照片 → 20 秒 AI 僵尸拥抱短视频。无订阅，游客可付。" />
+  <meta property="og:image" content="https://xianyu110.github.io/aizombie/assets/poster.jpg" />
+  <meta property="og:url" content="https://xianyu110.github.io/aizombie/" />
+  <link rel="icon" href="assets/poster.jpg" />
+  <style>
+    :root { color-scheme: dark; --bg:#0b0b0f; --card:#16161d; --text:#f5f5f7; --muted:#a1a1aa; --accent:#ff2d55; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif; background:var(--bg); color:var(--text); line-height:1.5; }
+    .wrap { max-width: 880px; margin: 0 auto; padding: 32px 20px 64px; }
+    .hero { text-align:center; }
+    .hero img.poster { width:min(380px,100%); border-radius:16px; box-shadow:0 20px 60px rgba(255,45,85,.25); }
+    h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); margin: 20px 0 8px; }
+    .sub { color: var(--muted); margin: 0 0 20px; }
+    .cta { display:inline-flex; gap:12px; flex-wrap:wrap; justify-content:center; margin-bottom: 28px; }
+    a.btn { background:var(--accent); color:#fff; text-decoration:none; padding:12px 20px; border-radius:999px; font-weight:600; }
+    a.btn.ghost { background:transparent; border:1px solid #333; color:var(--text); }
+    .frames { display:grid; grid-template-columns: repeat(4,1fr); gap:10px; margin: 28px 0; }
+    .frames img { width:100%; border-radius:10px; background:var(--card); }
+    .templates { display:grid; grid-template-columns: repeat(3,1fr); gap:12px; margin: 20px 0 32px; }
+    .templates img { width:100%; border-radius:12px; }
+    table { width:100%; border-collapse:collapse; margin: 16px 0 32px; }
+    th, td { text-align:left; padding:10px 12px; border-bottom:1px solid #222; }
+    th { color:var(--muted); font-weight:500; }
+    footer { color:var(--muted); font-size:14px; text-align:center; margin-top:40px; }
+    @media (max-width:640px){ .frames,.templates{ grid-template-columns: repeat(2,1fr);} }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="hero">
+      <img class="poster" src="assets/poster.jpg" alt="ZombieHug demo" />
+      <h1>ZombieHug</h1>
+      <p class="sub">两张照片 → 约 20 秒 AI 僵尸拥抱短视频<br/>游客可直接付 · 一条约 <strong style="color:#fff">$9.90</strong></p>
+      <div class="cta">
+        <a class="btn" href="https://aizombie.app">打开 aizombie.app</a>
+        <a class="btn ghost" href="https://aizombie.app/samples/sample.mp4">看演示成片</a>
+      </div>
+    </div>
+
+    <div class="frames">
+      <img src="assets/frame-1.jpg" alt="frame 1" />
+      <img src="assets/frame-2.jpg" alt="frame 2" />
+      <img src="assets/frame-3.jpg" alt="frame 3" />
+      <img src="assets/frame-4.jpg" alt="frame 4" />
+    </div>
+
+    <h2>模板</h2>
+    <div class="templates">
+      <img src="assets/love-story.jpg" alt="Love Story" />
+      <img src="assets/last-hug.jpg" alt="Last Hug" />
+      <img src="assets/zombie-cat.jpg" alt="Zombie Cat" />
+    </div>
+
+    <h2>定价</h2>
+    <table>
+      <thead><tr><th>套餐</th><th>价格</th><th>积分</th></tr></thead>
+      <tbody>
+        <tr><td>Single</td><td>$9.90</td><td>500 ≈ 1×720p</td></tr>
+        <tr><td>Trio</td><td>$24.90</td><td>1500</td></tr>
+        <tr><td>Creator</td><td>$69.90</td><td>5000</td></tr>
+      </tbody>
+    </table>
+
+    <footer>
+      Promo page for <a href="https://aizombie.app" style="color:#fff">aizombie.app</a>
+      · <a href="https://github.com/xianyu110/aizombie" style="color:#fff">GitHub</a>
+    </footer>
+  </div>
+</body>
+</html>
