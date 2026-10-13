@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>ZombieHug · AI Zombie Hug Video</title>
-  <meta name="description" content="两张照片生成 AI 僵尸拥抱短视频。游客 $9.90 出一条 720p。aizombie.app" />
-  <meta property="og:title" content="ZombieHug · aizombie.app" />
-  <meta property="og:description" content="两张照片 → 20 秒 AI 僵尸拥抱短视频。无订阅，游客可付。" />
+  <title>ZombieHug · AI Zombie Hug Video — $9.99</title>
+  <meta name="description" content="ZombieHug：两张照片 → 20 秒、多镜头带声的竖屏 9:16 僵尸爱情故事。一条 720p $9.99，无订阅、无需注册。aizombie.app" />
+  <meta property="og:title" content="ZombieHug · aizombie.app — 20s Video $9.99" />
+  <meta property="og:description" content="两张照片 → 20 秒多镜头带声 AI 僵尸拥抱短视频。一条 720p $9.99，无订阅，游客可付。" />
   <meta property="og:image" content="https://xianyu110.github.io/aizombie/assets/poster.jpg" />
   <meta property="og:url" content="https://xianyu110.github.io/aizombie/" />
   <link rel="icon" href="assets/poster.jpg" />
@@ -17,8 +17,10 @@
     .wrap { max-width: 880px; margin: 0 auto; padding: 32px 20px 64px; }
     .hero { text-align:center; }
     .hero img.poster { width:min(380px,100%); border-radius:16px; box-shadow:0 20px 60px rgba(255,45,85,.25); }
-    h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); margin: 20px 0 8px; }
-    .sub { color: var(--muted); margin: 0 0 20px; }
+    .badge { display:inline-block; margin-top:14px; font-size:12px; color:var(--muted); letter-spacing:.02em; }
+    h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); margin: 16px 0 8px; }
+    .sub { color: var(--muted); margin: 0 0 12px; }
+    .disclaimer { color: var(--muted); font-size: 13px; max-width: 520px; margin: 0 auto 20px; }
     .cta { display:inline-flex; gap:12px; flex-wrap:wrap; justify-content:center; margin-bottom: 28px; }
     a.btn { background:var(--accent); color:#fff; text-decoration:none; padding:12px 20px; border-radius:999px; font-weight:600; }
     a.btn.ghost { background:transparent; border:1px solid #333; color:var(--text); }
@@ -36,9 +38,11 @@
 <body>
   <div class="wrap">
     <div class="hero">
-      <img class="poster" src="assets/poster.jpg" alt="ZombieHug demo" />
+      <img class="poster" src="assets/poster.jpg" alt="ZombieHug sample demo" />
+      <p class="badge">Sample demo · Seedance 2.5</p>
       <h1>ZombieHug</h1>
-      <p class="sub">两张照片 → 约 20 秒 AI 僵尸拥抱短视频<br/>游客可直接付 · 一条约 <strong style="color:#fff">$9.90</strong></p>
+      <p class="sub">两张照片 → 约 20 秒、多镜头带声 AI 僵尸拥抱短视频（竖屏 9:16）<br/>游客可直接付 · 一条 720p <strong style="color:#fff">$9.99</strong> · 无订阅、无需注册</p>
+      <p class="disclaimer">示例成片使用样例演员。你的成片故事相同，但镜头数、动作与相似度会因每次生成而不同。</p>
       <div class="cta">
         <a class="btn" href="https://aizombie.app">打开 aizombie.app</a>
         <a class="btn ghost" href="https://aizombie.app/samples/sample.mp4">看演示成片</a>
@@ -46,10 +50,10 @@
     </div>
 
     <div class="frames">
-      <img src="assets/frame-1.jpg" alt="frame 1" />
-      <img src="assets/frame-2.jpg" alt="frame 2" />
-      <img src="assets/frame-3.jpg" alt="frame 3" />
-      <img src="assets/frame-4.jpg" alt="frame 4" />
+      <img src="assets/frame-1.jpg" alt="Can't shoot" />
+      <img src="assets/frame-2.jpg" alt="Gun down" />
+      <img src="assets/frame-3.jpg" alt="The leap" />
+      <img src="assets/frame-4.jpg" alt="Best day" />
     </div>
 
     <h2>模板</h2>
@@ -63,15 +67,17 @@
     <table>
       <thead><tr><th>套餐</th><th>价格</th><th>积分</th></tr></thead>
       <tbody>
-        <tr><td>Single</td><td>$9.90</td><td>500 ≈ 1×720p</td></tr>
-        <tr><td>Trio</td><td>$24.90</td><td>1500</td></tr>
+        <tr><td>Single</td><td>$9.99</td><td>500 ≈ 1×720p</td></tr>
+        <tr><td>3-pack</td><td>$24.90</td><td>1500 ≈ 3×720p</td></tr>
         <tr><td>Creator</td><td>$69.90</td><td>5000</td></tr>
       </tbody>
     </table>
+    <p style="color:var(--muted);font-size:14px;margin-top:-16px">480p 约 375 积分（约 $7.49）。一次付费，无订阅。</p>
 
     <footer>
       Promo page for <a href="https://aizombie.app" style="color:#fff">aizombie.app</a>
       · <a href="https://github.com/xianyu110/aizombie" style="color:#fff">GitHub</a>
+      · Maynor / xianyu110
     </footer>
   </div>
 </body>

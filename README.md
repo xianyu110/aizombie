@@ -8,8 +8,13 @@
 
 <p align="center">
   <strong>两张照片 → 一段 AI 僵尸拥抱短视频</strong><br/>
-  约 20 秒 · 15 镜 + 音效 · 竖屏 9:16<br/>
-  游客可直接支付 · <b>一条约 $9.90</b>（720p）
+  约 20 秒 · 多镜头 + 音效 · 竖屏 9:16<br/>
+  游客可直接支付 · <b>一条 720p $9.99</b> · 无订阅、无需注册
+</p>
+
+<p align="center">
+  <em>Sample demo · Seedance 2.5</em><br/>
+  <sub>示例成片使用样例演员。你的成片故事相同，但镜头数、动作与相似度会因每次生成而不同。</sub>
 </p>
 
 <p align="center">
@@ -32,9 +37,9 @@
 ## 怎么用
 
 1. 打开 [aizombie.app](https://aizombie.app)
-2. 上传两张照片（人像，或人 + 宠物）
-3. 选模板 → Create
-4. 游客可用 Stripe 付 **$9.90** 出一条 720p（也有多条套餐）
+2. 上传两张照片（照片 1 = 举枪；照片 2 = 变僵尸；须为不同的人）
+3. 可选填写回忆地点 → Create
+4. 游客可用 Stripe 付 **$9.99** 出一条 720p（也有 3-pack / Creator）
 
 ---
 
@@ -48,7 +53,7 @@
 
 - **Zombie Love Story** — 情侣对峙 → 拥抱（主推）
 - **Match Cut** — 卡点转场
-- **AI Zombie Trend** — 15 镜趋势款
+- **AI Zombie Trend** — 多镜头趋势款
 - **The Last Hug** — 亲子 / 所爱
 - **Zombie Cat / Dog** — 你 + 猫狗
 - **AI Zombie Video** — 通用成片
@@ -59,11 +64,13 @@
 
 | 套餐 | 价格 | 积分 |
 |---|---|---|
-| Single | $9.90 | 500 ≈ 1×720p |
-| Trio | $24.90 | 1500 |
+| Single | $9.99 | 500 ≈ 1×720p |
+| 3-pack | $24.90 | 1500 ≈ 3×720p |
 | Creator | $69.90 | 5000 |
 
-480p 约 375 积分。无订阅，按条付。
+480p 约 375 积分（约 $7.49）。无订阅，按条付。
+
+英文营销文案（与官网一致）：*ZombieHug turns two photos into a 20-second video with several shots and sound in vertical 9:16 — one 720p video for $9.99, no subscription, and no sign-up.*
 
 ---
 
@@ -86,7 +93,6 @@
 ## License
 
 Demo media for product showcase. Site © Maynor / xianyu110. Please only upload photos you own or have permission to use.
-
 
 ---
 

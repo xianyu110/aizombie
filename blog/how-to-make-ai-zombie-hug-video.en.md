@@ -1,7 +1,7 @@
 export const meta = {
   title: 'How to Make an AI Zombie Hug Video (No Sign-Up)',
   description:
-    'Upload two photos on aizombie.app, pay once for $9.90, and download a 20-second vertical zombie love story with sound — no subscription.',
+    'Upload two photos on aizombie.app, pay once for $9.99, and download a 20-second vertical zombie love story with sound — no subscription.',
   created_at: '2026-10-07',
   author_name: 'ZombieHug',
   author_image: '/logo.png',
@@ -28,11 +28,11 @@ Do not upload children’s photos or faces you do not have rights to use.
 
 ## Pricing
 
-| Pack | Price | Credits |
-|---|---|---|
-| Single | $9.90 | 500 ≈ one 720p |
-| Trio | $24.90 | 1500 |
-| Creator | $69.90 | 5000 |
+| Pack    | Price  | Credits        |
+| ------- | ------ | -------------- |
+| Single  | $9.99  | 500 ≈ one 720p |
+| Trio    | $24.90 | 1500           |
+| Creator | $69.90 | 5000           |
 
 480p uses about 375 credits. No subscription. Failed starts refund credits.
 
