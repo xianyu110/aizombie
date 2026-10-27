@@ -1,7 +1,7 @@
 export const meta = {
   title: '怎么做 AI 僵尸拥抱短视频（不用注册）',
   description:
-    '在 aizombie.app 上传两张照片，游客一次付 $9.99，下载约 20 秒竖屏僵尸爱情故事成片，无订阅。',
+    '在 aizombie.app 上传两张照片，游客一次付 $6.99 (was $9.99, BF 30% OFF thru Dec 1 2026 ET)，下载约 20 秒竖屏僵尸爱情故事成片，无订阅。',
   created_at: '2026-10-07',
   author_name: 'ZombieHug',
   author_image: '/logo.png',
@@ -30,9 +30,9 @@ export const meta = {
 
 | 套餐    | 价格   | 积分            |
 | ------- | ------ | --------------- |
-| Single  | $9.99  | 500 ≈ 一条 720p |
-| Trio    | $24.90 | 1500            |
-| Creator | $69.90 | 5000            |
+| Single  | ~~$9.99~~ **$6.99** | 500 ≈ 一条 720p |
+| Trio    | ~~$24.90~~ **$16.90** | 1500            |
+| Creator | ~~$69.90~~ **$48.90** | 5000            |
 
 480p 约 375 积分。无订阅。启动失败会退积分。
 

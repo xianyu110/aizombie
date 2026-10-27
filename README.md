@@ -9,7 +9,7 @@
 <p align="center">
   <strong>两张照片 → 一段 AI 僵尸拥抱短视频</strong><br/>
   约 20 秒 · 多镜头 + 音效 · 竖屏 9:16<br/>
-  游客可直接支付 · <b>一条 720p $9.99</b> · 无订阅、无需注册
+  游客可直接支付 · <b>黑五一条 720p $6.99（原价 $9.99，截止 2026-12-01 美东）</b> · 无订阅、无需注册
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 1. 打开 [aizombie.app](https://aizombie.app)
 2. 上传两张照片（照片 1 = 举枪；照片 2 = 变僵尸；须为不同的人）
 3. 可选填写回忆地点 → Create
-4. 游客可用 Stripe 付 **$9.99** 出一条 720p（也有 3-pack / Creator）
+4. 游客可用 Stripe 付 **$6.99**（原价 $9.99，Black Friday 30% OFF 至 2026-12-01 ET） 出一条 720p（也有 3-pack / Creator）
 
 ---
 
@@ -64,13 +64,13 @@
 
 | 套餐 | 价格 | 积分 |
 |---|---|---|
-| Single | $9.99 | 500 ≈ 1×720p |
-| 3-pack | $24.90 | 1500 ≈ 3×720p |
-| Creator | $69.90 | 5000 |
+| Single | ~~$9.99~~ **$6.99** | 500 ≈ 1×720p |
+| 3-pack | ~~$24.90~~ **$16.90** | 1500 ≈ 3×720p |
+| Creator | ~~$69.90~~ **$48.90** | 5000 |
 
 480p 约 375 积分（约 $7.49）。无订阅，按条付。
 
-英文营销文案（与官网一致）：*ZombieHug turns two photos into a 20-second video with several shots and sound in vertical 9:16 — one 720p video for $9.99, no subscription, and no sign-up.*
+英文营销文案（与官网一致）：*ZombieHug turns two photos into a 20-second video with several shots and sound in vertical 9:16 — one 720p video for $6.99 (was $9.99) during Black Friday 30% OFF through Dec 1, 2026 ET; no subscription, and no sign-up.*
 
 ---
 
